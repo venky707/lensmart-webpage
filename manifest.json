@@ -5,6 +5,32 @@
     "display": "standalone",
     "background_color": "#000000",
     "theme_color": "#545454",
-    "orientation": "potrait-primary"
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+           "src": "/images/icons/icon-36.png", 
+           "type": "image/png",
+           "sizes": "36x36"
+        },
+        {
+            "src": "/images/icons/icon-48.png", 
+            "type": "image/png",
+            "sizes": "48x48"
+         },
+         {
+            "src": "/images/icons/icon-72.png", 
+            "type": "image/png",
+            "sizes": "72x72"
+         },
+         {
+            "src": "/images/icons/icon-36.png", 
+            "type": "image/png",
+            "sizes": "96x96"
+         },
+         {
+            "src": "/images/icons/icon-36.png", 
+            "type": "image/png",
+            "sizes": "144x144"
+         }
     
 }
